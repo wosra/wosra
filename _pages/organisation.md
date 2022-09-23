@@ -12,6 +12,6 @@ title: "Organisation"
 - Julita Bermejo-Alonso, Autonomous Systems Laboratory, Universidad Politécnica de Madrid, Spain
 - Howard Li, University of New Brunswick, New Brunswick, Canada
 
-#**Scientific Committee**
+
 
 
