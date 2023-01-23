@@ -1,5 +1,5 @@
 ---
-title: 'WOSRA 2023 - June 2, 2023, London'
+title: 'WOSRA 2023'
 layout: single
 author_profile: false
 excerpt: '2nd edition of the workshop on Working towards Ontology-based Standards for Robotics and Automation'
@@ -8,7 +8,7 @@ header:
  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Working towards Ontology-based Standards for Robotics and Automation (WOSRA 2023) @ [ICRA 2023](https://www.icra2023.org/programme/workshops-tutorials), London, United Kingdom
+International Workshop on Working towards Ontology-based Standards for Robotics and Automation (WOSRA 2023) @ [ICRA 2023](https://www.icra2023.org/programme/workshops-tutorials), **June 2nd**, London, United Kingdom
 
 
 
