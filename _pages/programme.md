@@ -14,6 +14,6 @@ title: "Programme"
 - Ricardo Sanz, Autonomous Systems Laboratory, Universidad Politécnica de Madrid, Spain
 - Elisa Tosello, Embedded Systems Unit, Fondazione Bruno Kessler, Italy
 
-**Preliminary agenda**
+**Tentative agenda**
 
 ![](./../images/agenda.png?raw=true "")
