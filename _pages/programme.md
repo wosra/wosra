@@ -16,4 +16,4 @@ title: "Programme"
 
 **Tentative agenda**
 
-![](./../images/agenda.png?raw=true "")
+<img title="" alt="" src="./../images/agenda.png">
