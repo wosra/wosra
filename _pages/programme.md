@@ -13,3 +13,7 @@ title: "Programme"
 - Karinne Ramírez-Amaro, Chalmers University of Technology, Sweden
 - Ricardo Sanz, Autonomous Systems Laboratory, Universidad Politécnica de Madrid, Spain
 - Elisa Tosello, Embedded Systems Unit, Fondazione Bruno Kessler, Italy
+
+**Preliminary agenda**
+
+![](./../images/agenda.png?raw=true "")
