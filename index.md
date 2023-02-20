@@ -15,27 +15,25 @@ International Workshop on Working towards Ontology-based Standards for Robotics 
 
 
 
-**WORKSHOP MOTIVATION**
+**SCOPE**
 
-Robotics is becoming a mainstream domain with a wide range of applications with a medium and long term impact on everyone's lives. Current systems rely more and more on robot–robot communication and robot–human interaction. In terms of communication, a vocabulary with clear and concise definitions is a sine qua non component to enable information exchange among any group of agents, which can be human or non-human actors. This need for a well-defined knowledge representation is becoming evident if one considers the growing complexity of behaviors that robots are expected to perform as well as the rise of multi-robot and human–robot collaboration. This workshop has the purpose to increase interest in standardization for the Robotics and Automation (R&A) domain, as well as the ethical challenges involved with the interaction with humans. 
+Robotics is becoming a mainstream domain with a wide range of applications with a medium and long term impact on everyone’s lives. Current systems rely more and more on robot–robot communication and robot–human interaction. In terms of communication, a vocabulary with clear and concise definitions is a crucial component to enable information exchange among any group of agents, which can be human or non-human actors. This need for a well-defined knowledge representation is becoming evident if one considers the growing complexity of behaviors that robots are expected to perform as well as the rise of multi-robot and human–robot collaboration. The objective of this workshop is to increase interest in standardization for the Robotics and Automation (R&A) domain, as well as the ethical challenges involved with the interaction with humans.
 
-The existence of a standard knowledge representation would:
-define precisely concepts and relations in the robot’s knowledge representation that could include, but is not limited to, robot hardware and software, environment, cause and effects of performing actions, relationship among other robots and people;
-ensure common understanding among members of the community;
-facilitate efficient data integration and transfer of information among robotic systems.
+The standard knowledge representation will: precisely define concepts and relations in the robot’s knowledge representation that includes, but not limited to, robot hardware and software, environment, cause and effects of performing actions, relationship between other robots and people; ensure common understanding among members of the community; facilitate efficient data integration and transfer of information among robotic systems.
+
 
 
 **IMPORTANT DATES**
 
-- Submission deadline: TBD
-- Notification: TBD
-- Camera ready: TBD
-- Workshop: TBD
+- Submission deadline: **March 31**
+- Notification: **April 23**
+- Camera ready: **Ma 10**
+- Workshop: **June 2**
 
 
-**LIST OF TOPICS**
+**CALL FOR PAPERS**
 
-Participants are invited to submit original papers for oral presentation, including, but not limited to, topics such as:
+Participants are invited to submit demo papers of **2+n pages** accompanied with videos, or short papers of **4+n pages** (IEEE format) for oral presentation in person at ICRA in London. Contributions will be peer-reviewed (single-blind) and published on our website with the permission of authors, who will be invited to submit a journal article to a special issue. Details about the special issue will be announced after the workshop. Submissions shall focus on previous or ongoing research, use cases of ontologies for robotics, or new projects on ontologies, including but not limited to, the following topics:
 
 - Autonomous Robotics
 - Ontology-based development for reasoning in Robotics and Automation
