@@ -27,13 +27,13 @@ The standard knowledge representation will: precisely define concepts and relati
 
 - Submission deadline: **March 31**
 - Notification: **April 23**
-- Camera ready: **Ma 10**
+- Camera ready: **May 10**
 - Workshop: **June 2**
 
 
 **CALL FOR PAPERS**
 
-Participants are invited to submit demo papers of **2+n pages** accompanied with videos, or short papers of **4+n pages** (IEEE format) for oral presentation in person at ICRA in London. Contributions will be peer-reviewed (single-blind) and published on our website with the permission of authors, who will be invited to submit a journal article to a special issue. Details about the special issue will be announced after the workshop. Submissions shall focus on previous or ongoing research, use cases of ontologies for robotics, or new projects on ontologies, including but not limited to, the following topics:
+Participants are invited to submit demo papers of **2+n pages** accompanied with videos, or short papers of **4+n pages** (IEEE format) for oral presentation in person at ICRA in London. Contributions will be peer-reviewed (single-blind) and published on our website with the permission of authors, who will be invited to submit a journal article to a special issue. Details about the special issue will be announced after the workshop. Submissions shall focus on **previous or ongoing** research, **use cases** of ontologies for robotics, or **new projects** on ontologies, including but not limited to, the following topics:
 
 - Autonomous Robotics
 - Ontology-based development for reasoning in Robotics and Automation
