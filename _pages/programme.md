@@ -9,6 +9,7 @@ title: "Programme"
 - Stephen Balakirsky, Georgia Tech Research Institute (GTRI), USA
 - Michael Beetz, Institute for Artificial Intelligence, University of Bremen, Germany
 - Stefano Borgo, Laboratory for Applied Ontology (LOA), ISTC CNR, Italy
+- Paulo J.S. Gonçalves, IDMEC - Center of Intelligent Systems, University of Lisbon/ Instituto Politécnico de Castelo Branco, Portugal
 - Tamás Haidegger, Obuda University, Hungary
 - Howard Li, University of New Brunswick, New Brunswick, Canada
 - Karinne Ramírez-Amaro, Chalmers University of Technology, Sweden
