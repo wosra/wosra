@@ -27,7 +27,7 @@ The standard knowledge representation will: precisely define concepts and relati
 
 - Submission deadline: **April 9 (extended)**
 - Notification: **April 30**
-- Camera ready: **May 10**
+- Camera ready: **May 14**
 - Workshop: **June 2**
 
 
