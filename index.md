@@ -11,7 +11,7 @@ header:
 International Workshop on Working towards Ontology-based Standards for Robotics and Automation (WOSRA 2023) @ [ICRA 2023](https://www.icra2023.org/programme/workshops-tutorials), **June 2nd**, London, United Kingdom
 
 
-
+**Location:** ICC Capital Suite 16, ExCeL London
 
 
 
