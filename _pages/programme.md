@@ -3,6 +3,8 @@ permalink: /programme/
 title: "Programme"
 ---
 
+**Location:** ICC Capital Suite 16, ExCeL London
+
 **Confirmed invited speakers (alphabetical order)**
 
 - Rachid Alami, Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), France
