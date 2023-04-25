@@ -35,8 +35,6 @@ The standard knowledge representation will: precisely define concepts and relati
 
 Participants are invited to submit demo papers of **2+n pages** accompanied with videos, or short papers of **4+n pages** (IEEE format) for oral presentation in person at ICRA in London. Contributions shall be submitted through the EasyChair conference system on this [submission link](https://easychair.org/conferences/?conf=wosra2023). They will be peer-reviewed (single-blind) and published on our website with the permission of authors, who will be invited to submit a journal article to a special issue. Details about the special issue will be announced after the workshop. Submissions shall focus on **previous or ongoing** research, **use cases** of ontologies for robotics, or **new projects** on ontologies, including but not limited to, the following topics:
 
-Participants are invited to submit demo papers of 2+n pages accompanied with videos, or short papers of 4+n pages (IEEE format) for oral presentation in person at ICRA in London. Contributions shall be submitted through the EasyChair conference system on this submission link. They will be peer-reviewed (single-blind) and published on our website with the permission of authors, who will be invited to submit a journal article to a special issue. Details about the special issue will be announced after the workshop. Submissions shall focus on previous or ongoing research, use cases of ontologies for robotics, or new projects on ontologies, including but not limited to, the following topics:
-
 - Autonomous Robotics
 - Ontology-based development for reasoning in Robotics and Automation
 - Ontology-based Standards for reasoning in Robotics and Automation
