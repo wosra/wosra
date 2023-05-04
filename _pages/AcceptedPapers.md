@@ -7,7 +7,7 @@ title: "Accepted papers"
 
 Accepted contributions shall be modified following the comments provided by the reviewers (if any) and re-submitted through the EasyChair conference system on this [submission link](https://easychair.org/conferences/?conf=wosra2023) no later than **May 16**. You are also asked to send 
 
-Each accepted article shall be presented in person by one of the authors on June 1. Authors will have 10 minutes (including presentation and Q&A), so we suggest you to prepare a presentation of 7-8 minutes. It is recommended to use the official presentation template from ICRA 2023 that can be found [here](https://www.icra2023.org/programme/logos-templates). No later than **May 16**, authors shall send us (by email) the slides that will be used during the in person presentation. 
+Each accepted article shall be presented in person by one of the authors on June 1. Authors will have 10 minutes (including presentation and Q&A), so we suggest you to prepare a presentation of 7-8 minutes. It is recommended to use the official presentation template from ICRA 2023 that can be found [here](https://www.icra2023.org/programme/logos-templates). No later than **May 16**, authors shall send us (by email) the slides that will be used during the in person presentation. The preferred format is **PDF**, but we can also accept **.pptx files**. 
 
 Note that our intention is to upload all the accepted articles and slides to our website, in order to improve the visibility their visibility. Please, if you do not want us to upload a copy of your documents, let us know. In any case, we encourage you to consider the reviewers suggestions and re-submit the article and send us the slides. 
 
