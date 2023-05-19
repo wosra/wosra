@@ -15,7 +15,6 @@ title: "Programme"
 - Tamás Haidegger, Obuda University, Hungary
 - Howard Li, University of New Brunswick, New Brunswick, Canada
 - Karinne Ramírez-Amaro, Chalmers University of Technology, Sweden
-- Ricardo Sanz, Autonomous Systems Laboratory, Universidad Politécnica de Madrid, Spain
 - Elisa Tosello, Embedded Systems Unit, Fondazione Bruno Kessler, Italy
 
 **Tentative agenda**
