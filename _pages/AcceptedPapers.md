@@ -3,6 +3,30 @@ permalink: /papers/
 title: "Accepted papers"
 ---
 
+
+
+_**Ontology guided Context Understanding for Robotic Task Execution.**_ Snehasis Banerjee, Dibyarup Dutta and Avigyan Bhattacharya	
+
+_**Semantic World Model for Off-Road Environments for Autonomous Navigation and Decision Making.**_ Anant Bhamri and Swaminathan Gopalswamy	
+
+
+_**A Knowledge-augmented Concept for Programming by Demonstration based on Hand-Object Actions.**_ Junsheng Ding, Alexander Perzylo and Liangwei Zhou	
+
+	
+_**Ontological component-based description of robot capabilities.**_ Bastien Dussard, Guillaume Sarthou and Aurélie Clodic
+
+
+_**Ontology based robot reasoning in the elderly care domain - the EUROAGE projects.**_ Paulo Goncalves, Rodrigo Bernardo and João Sousa	
+
+
+_**Knowledge based control for autonomous mobile machines in mines.**_ Niko Känsäkoski, Jere Backman and Tapio Heikkilä	
+
+	
+_**Defining Active and Assisted Living Use Cases for IEEE 1872.2.**_ Joao Quintas
+
+
+<!--- 
+
 **Final submission instructions**
 
 Accepted contributions shall be modified following the comments provided by the reviewers (if any) and re-submitted through the EasyChair conference system on this [submission link](https://easychair.org/conferences/?conf=wosra2023) no later than **May 16**. You are also asked to send 
@@ -23,3 +47,5 @@ Please, if none of the authors can register/attend the workshop in person, conta
 The workshop will take place at the ICC Capital Suite 16, ExCeL London. You can find attached a floor plan to find the exact room.
 
 The tentative agenda of the workshop is now available on the workshop's website. Stay tuned to see the final agenda, which will be available before the workshop takes place.
+
+ --->
