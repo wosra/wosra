@@ -19,8 +19,7 @@ _**Ontological component-based description of robot capabilities.**_ Bastien Dus
 _**Ontology based robot reasoning in the elderly care domain - the EUROAGE projects.**_ Paulo Goncalves, Rodrigo Bernardo and João Sousa	
 
 
-_**Knowledge based control for autonomous mobile machines in mines.**_ Niko Känsäkoski, Jere Backman and Tapio Heikkilä	
-
+_**Knowledge based control for autonomous mobile machines in mines.**_ Niko Känsäkoski, Jere Backman and Tapio Heikkilä	<a href="./../documents/WOSRA_2023_paper_1.pdf" download>(download)</a>
 	
 _**Defining Active and Assisted Living Use Cases for IEEE 1872.2.**_ Joao Quintas
 
