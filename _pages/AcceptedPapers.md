@@ -5,26 +5,14 @@ title: "Accepted papers"
 
 
 
-_**Ontology guided Context Understanding for Robotic Task Execution.**_ Snehasis Banerjee, Dibyarup Dutta and Avigyan Bhattacharya <a href="./../documents/WOSRA_2023_paper_9.pdf" download>(download)</a>
-
-_**Semantic World Model for Off-Road Environments for Autonomous Navigation and Decision Making.**_ Anant Bhamri and Swaminathan Gopalswamy <a href="./../documents/WOSRA_2023_paper_3.pdf" download>(download)</a>
-
-
-_**A Knowledge-augmented Concept for Programming by Demonstration based on Hand-Object Actions.**_ Junsheng Ding, Alexander Perzylo and Liangwei Zhou <a href="./../documents/WOSRA_2023_paper_4.pdf" download>(download)</a>
-
-	
-_**Ontological component-based description of robot capabilities.**_ Bastien Dussard, Guillaume Sarthou and Aurélie Clodic <a href="./../documents/WOSRA_2023_paper_5.pdf" download>(download)</a>
-
-
-_**Ontology based robot reasoning in the elderly care domain - the EUROAGE projects.**_ Paulo Goncalves, Rodrigo Bernardo and João Sousa <a href="./../documents/WOSRA_2023_paper_8.pdf" download>(download)</a>
-
-
-_**Knowledge based control for autonomous mobile machines in mines.**_ Niko Känsäkoski, Jere Backman and Tapio Heikkilä	<a href="./../documents/WOSRA_2023_paper_1.pdf" download>(download)</a>
-	
-_**Defining Active and Assisted Living Use Cases for IEEE 1872.2.**_ Joao Quintas <a href="./../documents/WOSRA_2023_paper_6.pdf" download>(download)</a>
 
 
 <!--- 
+_**Knowledge based control for autonomous mobile machines in mines.**_ Niko Känsäkoski, Jere Backman and Tapio Heikkilä	<a href="./../documents/WOSRA_2023_paper_1.pdf" download>(download)</a>
+	
+
+
+
 
 **Final submission instructions**
 

@@ -3,21 +3,23 @@ permalink: /programme/
 title: "Programme"
 ---
 
-**Location:** ICC Capital Suite 16, ExCeL London
+**Location:** Pacific Convention Plaza, Yokohama, Japan
 
-**Confirmed invited speakers (alphabetical order)**
+**Invited speakers (alphabetical order)**
 
-- Rachid Alami, Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), France
-- Stephen Balakirsky, Georgia Tech Research Institute (GTRI), USA
-- Michael Beetz, Institute for Artificial Intelligence, University of Bremen, Germany
-- Stefano Borgo, Laboratory for Applied Ontology (LOA), ISTC CNR, Italy
-- Mohammed Diab, Personal Robotics Laboratory, Imperial College London, United Kingdom
-- Paulo J.S. Gonçalves, IDMEC - Center of Intelligent Systems, University of Lisbon/ Instituto Politécnico de Castelo Branco, Portugal
-- Tamás Haidegger, Obuda University, Hungary
-- Howard Li, University of New Brunswick, New Brunswick, Canada
-- Karinne Ramírez-Amaro, Chalmers University of Technology, Sweden
-- Elisa Tosello, Embedded Systems Unit, Fondazione Bruno Kessler, Italy
+Stephen Balakirsky, Georgia Tech Research Institute (GTRI), USA [**accepted**]
+Michael Beetz, Institute for Artificial Intelligence, University of Bremen, Germany [pending]
+Koji Kamei, NTT Communication Science Laboratories, Japan [pending]
+Riichiro Mizoguchi, Japan Advanced Institute of Science and Technology, Japan [**accepted**]
+Alessandro Umbrico, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy [**accepted**]
+Signe Redfield, Naval Research Lab, USA [pending]
+Alessandro Saffiotti, University of Örebro, Sweden [pending]
+Elisa Tosello, Embedded Systems Unit, Fondazione Bruno Kessler, Italy [**accepted**]
+Megan Zimmerman, National Institute of Standards and Technology (NIST), USA [**accepted**]
 
+<!--
 **Tentative agenda**
 
 <img title="" alt="" src="./../images/agenda.png">
+
+-->
