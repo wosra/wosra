@@ -1,2 +1,2 @@
-# WOSRA 2023
-Webpage for the workshop on 'Working towards Ontology-based Standards for Robotics and Automation (WOSRA)' - 2nd edition
+# WOSRA 2024
+Webpage for the Workshop on Ontologies and Standards for Robotics and Automation (WOSRA)' - 3rd edition
