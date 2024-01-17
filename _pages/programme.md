@@ -12,7 +12,6 @@ title: "Programme"
 - Koji Kamei, NTT Communication Science Laboratories, Japan [**accepted**]
 - Riichiro Mizoguchi, Japan Advanced Institute of Science and Technology, Japan [**accepted**]
 - Alessandro Umbrico, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy [**accepted**]
-- Signe Redfield, Naval Research Lab, USA [pending]
 - Alessandro Saffiotti, University of Örebro, Sweden [pending]
 - Elisa Tosello, Embedded Systems Unit, Fondazione Bruno Kessler, Italy [**accepted**]
 - Megan Zimmerman, National Institute of Standards and Technology (NIST), USA [**accepted**]
