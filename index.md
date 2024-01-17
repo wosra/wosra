@@ -35,7 +35,7 @@ The standard knowledge representation will: precisely define concepts and relati
 
 **CALL FOR PAPERS**
 
-Participants are invited to submit demo papers of **2+n pages** accompanied with videos, or short papers of **4+n pages** (IEEE format) for oral presentation in person at ICRA in London. Contributions shall be submitted through the EasyChair conference system on this [submission link](https://easychair.org/conferences/?conf=wosra2023). They will be peer-reviewed (single-blind) and published on our website with the permission of authors, who will be invited to submit a journal article to a special issue. Details about the special issue will be announced after the workshop. Submissions shall focus on **previous or ongoing** research, **use cases** of ontologies for robotics, or **new projects** on ontologies, including but not limited to, the following topics:
+Participants are invited to submit demo papers of upto **2 pages + n pages for references**, or short papers of upto **4+n pages** (IEEE format) for oral presentation in person at ICRA in London. Contributions shall be submitted through the EasyChair conference system on this [submission link](https://easychair.org/conferences/?conf=wosra2023). They will be peer-reviewed (single-blind) and published on our website with the permission of authors, who will be invited to submit a journal article to a special issue. Details about the special issue will be announced after the workshop. Submissions shall focus on **previous or ongoing** research, **use cases** of ontologies for robotics, or **new projects** on ontologies, including but not limited to, the following topics:
 
 -->
 
@@ -44,7 +44,11 @@ Participants are invited to submit demo papers of **2+n pages** accompanied with
 - Ontology-based development for reasoning in Robotics and Automation
 - Ontology-based Standards for reasoning in Robotics and Automation
 - Knowledge representation and reasoning for robotics and automation using Ontologies
-- Robot-robot interaction and/or Human-robot interaction 
+- Representation, reasoning, and behaviors for autonomy
+- Robot-robot interaction and/or human-robot interaction
+- Affordances in human-robot interaction
+- Causation in human-robot interaction
+- Human studies in human-robot interaction
 - Building ethical AI and Robot systems
 - Ethical design and development of AI and Robot systems
 - Data privacy and protection within world of AI and Robots
@@ -53,11 +57,9 @@ Participants are invited to submit demo papers of **2+n pages** accompanied with
 - Ontology-based approaches for explainable agents and robots
 - Fairness and Transparency in AI and Robots
 - AI, Robotics and law
-- Representation, reasoning, and behaviors for autonomy
 - Artificial intelligence and machine learning for autonomous robots
 - Multiple autonomous robots and cloud robotics
-- Affordances in human robot interaction
-- Causation in human robot interaction
+
 
 	
 
