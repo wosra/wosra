@@ -16,9 +16,11 @@ title: "Programme"
 - Elisa Tosello, Embedded Systems Unit, Fondazione Bruno Kessler, Italy [**accepted**]
 - Megan Zimmerman, National Institute of Standards and Technology (NIST), USA [**accepted**]
 
-<!--
+
 **Tentative agenda**
 
-<img title="" alt="" src="./../images/agenda.png">
+<!-- <img title="" alt="" src="./../images/agenda.html"> -->
 
--->
+<div w3-include-html="./../html/agenda.html"></div> 
+
+
