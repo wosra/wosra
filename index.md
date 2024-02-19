@@ -24,31 +24,33 @@ The standard knowledge representation will: precisely define concepts and relati
 
 
 
-<!--
 **IMPORTANT DATES**
 
-- Submission deadline: **April 9 (extended)**
-- Notification: **April 30**
-- Camera ready: **May 16** (details on 'Accepted papers' page)
-- Workshop: **June 2**
+- Submission deadline: **March 24**
+- Notification: **April 14**
+- Camera ready: **April 28** (details on 'Accepted papers' page)
+- Workshop: **May 13**
 
 
 **CALL FOR PAPERS**
 
-Participants are invited to submit demo papers of upto **2 pages + n pages for references**, or short papers of upto **4+n pages** (IEEE format) for oral presentation in person at ICRA in London. Contributions shall be submitted through the EasyChair conference system on this [submission link](https://easychair.org/conferences/?conf=wosra2023). They will be peer-reviewed (single-blind) and published on our website with the permission of authors, who will be invited to submit a journal article to a special issue. Details about the special issue will be announced after the workshop. Submissions shall focus on **previous or ongoing** research, **use cases** of ontologies for robotics, or **new projects** on ontologies, including but not limited to, the following topics:
+Participants are invited to submit:
+- **Papers:** at least 6 pages (including references). Papers with previous or on-going research, preliminary results, use cases. The aim is to disseminate to the community research works but also encourage fruitful discussions on open problems and novel ideas.
+- **Extended abstracts:** 2-5 pages (including references). Insights on new or ongoing projects on ontologies. The goal is to foster engaging technical and scientific discussions among ontology users and cultivate new collaborations. 
 
--->
+Workshop submissions must be in [LNCS one-column format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) (1 page = 2500 characters). Please, check the [CEUR publishing rules](https://ceur-ws.org/HOWTOSUBMIT.html#PUBLISH-RULES). 
+
+All contributions (both papers and extended abstracts) shall be submitted through the EasyChair conference system on this [submission link](https://easychair.org/cfp/WOSRA2024). They will be peer-reviewed (single-blind) and published on our website with the permission of authors. Accepted papers will be published in the WOSRA series of CEUR-WS. Papers and extended abstracts will be presented in person at ICRA in Yokohama via a poster to be displayed during the dedicated posters session. Submissions shall include, but are not limited to, the following topics:
+
 
 **TOPICS OF INTEREST**
 - Autonomous Robotics
 - Ontology-based development for reasoning in Robotics and Automation
 - Ontology-based Standards for reasoning in Robotics and Automation
+- Ontology-based planning in Robotics and Automation
 - Knowledge representation and reasoning for robotics and automation using Ontologies
-- Representation, reasoning, and behaviors for autonomy
-- Robot-robot interaction and/or human-robot interaction
-- Affordances in human-robot interaction
-- Causation in human-robot interaction
-- Human studies in human-robot interaction
+- Robot-robot interaction and/or Human-robot interaction
+- Metrics for Human-robot interaction studies
 - Building ethical AI and Robot systems
 - Ethical design and development of AI and Robot systems
 - Data privacy and protection within world of AI and Robots
@@ -57,8 +59,12 @@ Participants are invited to submit demo papers of upto **2 pages + n pages for r
 - Ontology-based approaches for explainable agents and robots
 - Fairness and Transparency in AI and Robots
 - AI, Robotics and law
+- Representation, reasoning, and behaviors for autonomy
 - Artificial intelligence and machine learning for autonomous robots
 - Multiple autonomous robots and cloud robotics
+- Affordances in human robot interaction
+- Causation in human robot interaction
+
 
 
 	
