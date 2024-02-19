@@ -7,23 +7,29 @@ title: "Programme"
 
 **Invited speakers (alphabetical order)**
 
-- Stephen Balakirsky, Georgia Tech Research Institute (GTRI), USA [**accepted**]
-- Michael Beetz, Institute for Artificial Intelligence, University of Bremen, Germany [pending]
-- Koji Kamei, NTT Communication Science Laboratories, Japan [**accepted**]
-- Riichiro Mizoguchi, Japan Advanced Institute of Science and Technology, Japan [**accepted**]
-- Alessandro Umbrico, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy [**accepted**]
-- Alessandro Saffiotti, University of Örebro, Sweden [pending]
-- Elisa Tosello, Embedded Systems Unit, Fondazione Bruno Kessler, Italy [**accepted**]
-- Megan Zimmerman, National Institute of Standards and Technology (NIST), USA [**accepted**]
+<p style="color:#7213e5";>
+  **Session I: Research talks**
+  
+  - Michael Beetz, Institute for Artificial Intelligence, University of Bremen, Germany [tentative]
+  - Riichiro Mizoguchi, Japan Advanced Institute of Science and Technology, Japan [**accepted**]
+  - Elisa Tosello, Embedded Systems Unit, Fondazione Bruno Kessler, Italy [**accepted**]
+  - Alessandro Umbrico, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy [**accepted**]
+</p>
 
+
+
+*Session II: Standards and Industry talks*
+
+- Benjamin Alt, Artiminds, Germany [**accepted**]
+- Stephen Balakirsky, Georgia Tech Research Institute (GTRI), USA [**accepted**]
+- Koji Kamei, NTT Communication Science Laboratories, Japan [**accepted**]
+- Megan Zimmerman, National Institute of Standards and Technology (NIST), USA [**accepted**]
 
 **Tentative agenda**
 
-<!-- 
+
 <img title="" alt="" src="./../images/agenda.html"> 
 
 
--->
 
 
-<div w3-include-html="./../html/agenda.html"></div> 
