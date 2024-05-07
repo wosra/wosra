@@ -4,11 +4,27 @@ title: "Accepted papers"
 ---
 
 
+_**Extended Abstract on "Knowledge-based Execution Configuration of Behavior Trees".**_ Oriol Ruiz-Celada, Jan Rosell and Raul Suárez
 
+_**Towards Using Multiple Iterated, Reproduced, and Replicated Experiments with Robots (MIRRER) for Evaluation and Benchmarking.**_ Adam Norton and Brian Flynn
+
+_**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities.**_ Miguel Á. González-Santamarta, Francisco J Rodríguez Lera, David Sobrín Hidalgo, Ángel Manuel Guerrero-Higueras and Vicente Matellan
+
+_**Domain Ontology to Provide Flexible Robotic Systems in Internal Logistics.**_ Rodrigo Bernardo, João Sousa and Paulo Goncalves
+
+_**Symbolic Graph Inference for Compound Scene Understanding.**_ Fnu Aryan, Simon Stepputtis, Sarthak Bhagat, Joseph Campbell, Kwonjoon Lee, Hossein Nourkhiz Mahjoub and Katia Sycara
+
+_**Towards an Ontology-enabled Digital Thread for Robotic Knowledge Discovery in Life Sciences.**_ Dennis Knobbe and Sami Haddadin
+
+_**Mission-Oriented Ontology for Small Unmanned Aerial Systems for Disasters.**_ Robin Murphy, Justin Adams and David Merrick
+
+_**Towards Ontology-based Handling of Uncertainties in Robotic Assembly.**_ Dominik Mittel, Alexander Perzylo, Ingmar Kessler and Junsheng Ding
+
+_**Ontological Adaptations to a Knowledge Service for Underwater Robot Mission Explainability.**_ Jeremy Coffelt, Peter Kampmann and Michael Beetz
 
 
 <!--- 
-_**Knowledge based control for autonomous mobile machines in mines.**_ Niko Känsäkoski, Jere Backman and Tapio Heikkilä	<a href="./../documents/WOSRA_2023_paper_1.pdf" download>(download)</a>
+<a href="./../documents/WOSRA_2023_paper_1.pdf" download>(download)</a>
 	
 
 
