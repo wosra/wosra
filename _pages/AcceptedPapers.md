@@ -3,6 +3,14 @@ permalink: /papers/
 title: "Accepted papers"
 ---
 
+<span style="color:red;"> **[NEWS]** </span>
+Papers and extended abstracts will be presented in person at ICRA in Yokohama via a poster to be displayed during the dedicated posters session. Authors are also invited to prepare an optional single slide for a one minute spotlight presentation of their work. This will serve to capture the attention of the workshop's attendees right before the poster sessions (coffee breaks). Depending on the availability of space to hang on the posters, authors might discuss them for one or the two coffe breaks (hopefully the second case). We recommend to print the posters in Din A1 or A0. 
+
+Authors will have the opportunity to resubmit their works once the workshop has finished, so that the final version to be included in the proceedings can benefit from the workshop's discussion. 
+
+
+
+**PAPERS**
 
 _**Extended Abstract on "Knowledge-based Execution Configuration of Behavior Trees".**_ Oriol Ruiz-Celada, Jan Rosell and Raul Suárez
 
