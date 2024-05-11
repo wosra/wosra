@@ -6,25 +6,24 @@ title: "Programme"
 **Location:** Pacific Convention Plaza, Yokohama, Japan
 
 
-**Invited speakers for Session I: Research talks**
+**Invited speakers for Session I**
 
-- [Talk 1] Riichiro Mizoguchi, Japan Advanced Institute of Science and Technology, Japan 
-- [Talk 2] Michael Beetz, Institute for Artificial Intelligence, University of Bremen, Germany 
-- [Talk 3] Elisa Tosello, Embedded Systems Unit, Fondazione Bruno Kessler, Italy 
-- <span style="color:red;"> **[cancelled]** </span> [Talk 4] Alessandro Umbrico, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy
+- **[Talk 1] *What is causation?***, by Riichiro Mizoguchi, Japan Advanced Institute of Science and Technology, Japan
+- **[Talk 2] *Working Towards Standardized Robotic Task Planning: An Applications Guide (IEEE RAS 1872.1.1***, by Stephen Balakirsky, Georgia Tech Research Institute (GTRI), USA 
+- **[Talk 3] *Shaping Cognitive Control through Ontology-based Reasoning***, by Alessandro Umbrico, Institute of Cognitive Sciences and Technologies (ISTC-CNR), Italy
+- **[Talk 4] *IEEE standard development and awards***, by Howard Li, University of New Brunswick, New Brunswick, Canada 
 
-*(we are thinking of what to do during the time assigned to the cancelled Talk 4)*
+**Invited speakers for Session II**
 
 
-**Invited speakers for Session II: Standards and Industry talks**
-
-- [Talk 5] Stephen Balakirsky, Georgia Tech Research Institute (GTRI), USA 
-- [Talk 6] Koji Kamei, NTT Communication Science Laboratories, Japan 
-- [Talk 7] Megan Zimmerman, National Institute of Standards and Technology (NIST), USA
-- [Talk 8] Benjamin Alt, Artiminds, Germany 
+- **[Talk 5] *Title to be decided***, by Michael Beetz, Institute for Artificial Intelligence, University of Bremen, Germany 
+- **[Talk 6] *Robotic Service Ontology (RoSO): Standardization Activities in Object Management Group***, by Koji Kamei, NTT Communication Science Laboratories, Japan 
+- **[Talk 7] *Metrics and Standards for Human Robot Interaction and Collaborative Robotics***, by Megan Zimmerman, National Institute of Standards and Technology (NIST), USA
+- **[Talk 8] *Bridging the AI Application Gap in Industrial Robotics with Ontologies and Standards***, by Benjamin Alt, Artiminds, Germany 
 
 **Tentative agenda**
 
+Note that time is in the local time zone (Japan). 
 
 <img title="" alt="" src="./../images/agenda.png"> 
 
