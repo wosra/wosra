@@ -1,17 +1,17 @@
 ---
-title: 'WOSRA 2024'
+title: 'WOSRA 2025'
 layout: single
 author_profile: false
-excerpt: '3rd edition of the Workshop on Ontologies and Standards for Robotics and Automation'
+excerpt: '4th edition of the Workshop on Ontologies and Standards for Robotics and Automation'
 header:
  overlay_image: /images/icra.png
  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-International Workshop on Ontologies and Standards for Robotics and Automation (WOSRA 2024) @ [ICRA 2024](https://2024.ieee-icra.org/index.html), **May 13th**, Yokohama, Japan
+International Workshop on Ontologies and Standards for Robotics and Automation (WOSRA 2025) @ [ICRA 2025](https://2025.ieee-icra.org/), **May 19th**, Atlanta, USA
 
 
-**Location:** Pacific Convention Plaza, Yokohama, Japan
+**Location:** Georgia World Congress Center, Atlanta, USA
 
 
 
@@ -26,21 +26,17 @@ The standard knowledge representation will: precisely define concepts and relati
 
 **IMPORTANT DATES**
 
-- Submission deadline: *~~March 24~~* **March 31** <span style="color:red;"> **[extended]** </span>
+- Submission deadline: **March 24** 
 - Notification: **April 14**
 - Camera ready: **April 28** (details on 'Accepted papers' page)
-- Workshop: **May 13**
+- Workshop: **May 19**
 
 
 **CALL FOR PAPERS**
 
-Participants are invited to submit:
-- **Papers:** at least 6 pages (including references). Papers with previous or on-going research, preliminary results, use cases. The aim is to disseminate to the community research works but also encourage fruitful discussions on open problems and novel ideas.
-- **Extended abstracts:** 2-5 pages (including references). Insights on new or ongoing projects on ontologies. The goal is to foster engaging technical and scientific discussions among ontology users and cultivate new collaborations. 
+Participants are invited to submit extended abstract papers of 2+n pages (n pages for references), or short papers of 4+n pages (IEEE format) for poster presentation in person at ICRA in Atlanta. Contributions shall be submitted through the EasyChair conference system. Extended abstracts shall focus on insights on new or ongoing projects on ontologies. The goal is to foster engaging technical and scientific discussions among ontology users and cultivate new collaborations. Short papers shall discuss previous or on-going research, preliminary results, use cases. The aim is to disseminate to the community research works but also encourage fruitful discussions on open problems and novel ideas.
 
-Workshop submissions must be in [LNCS one-column format](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) (1 page = 2500 characters). Please, check the [CEUR publishing rules](https://ceur-ws.org/HOWTOSUBMIT.html#PUBLISH-RULES). 
-
-All contributions (both papers and extended abstracts) shall be submitted through the EasyChair conference system on this [submission link](https://easychair.org/cfp/WOSRA2024). They will be peer-reviewed (single-blind) and published on our website with the permission of authors. Accepted papers will be published in the WOSRA series of CEUR-WS. Papers and extended abstracts will be presented in person at ICRA in Yokohama via a poster to be displayed during the dedicated posters session. Submissions shall include, but are not limited to, the following topics:
+All papers will be peer-reviewed (single-blind) and published on our website with the permission of authors. Submissions shall focus on subjects including but not limited to the following topics:
 
 
 **TOPICS OF INTEREST**
@@ -64,16 +60,3 @@ All contributions (both papers and extended abstracts) shall be submitted throug
 - Multiple autonomous robots and cloud robotics
 - Affordances in human robot interaction
 - Causation in human robot interaction
-
-
-
-	
-
-
-**WORKSHOP ENDORSEMENT**
-
-- Technical Committee for Cognitive Robotics ([CORO](https://www.ieee-ras.org/cognitive-robotics/activities)) 
-- IEEE Robotics and Automation Society - Standing Committee for Standards ([RAS/SC](https://sagroups.ieee.org/ras-sc/))
-
-
-
