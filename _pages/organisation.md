@@ -11,7 +11,7 @@ title: "Organisation"
 
 **Daniel Beßler** - Institute for Artificial Intelligence, University of Bremen, Germany [(web)](https://ai.uni-bremen.de/team/daniel_bessler)
 
-**Amelie Gyrard** - Trialog, France [(web)](https://wiki.aiisc.ai/index.php?title=AmelieGyrard)
+**Amélie Gyrard** - Trialog, France [(web)](https://wiki.aiisc.ai/index.php?title=AmelieGyrard)
 
 **Howard Li** - University of New Brunswick, New Brunswick, Canada [(web)](https://www.unb.ca/faculty-staff/directory/engineering-electrical-and-computer/li-howard.html)
 
