@@ -3,8 +3,9 @@ permalink: /programme/
 title: "Programme"
 ---
 
-**Location:** Pacific Convention Plaza, Yokohama, Japan
+**Location:** Georgia World Congress Center, Atlanta, USA
 
+<!-- 
 
 **Invited speakers for Session I**
 
@@ -21,11 +22,15 @@ title: "Programme"
 - **[Talk 7] *Metrics and Standards for Human Robot Interaction and Collaborative Robotics***, by Megan Zimmerman, National Institute of Standards and Technology (NIST), USA
 - **[Talk 8] *Bridging the AI Application Gap in Industrial Robotics with Ontologies and Standards***, by Benjamin Alt, Artiminds, Germany 
 
+ 
+
 **Tentative agenda**
 
 Note that time is in the local time zone (Japan). 
 
 <img title="" alt="" src="./../images/agenda.png"> 
+
+-->
 
 
 
