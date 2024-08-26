@@ -11,11 +11,11 @@ title: "Organisation"
 
 **Daniel Beßler** - Institute for Artificial Intelligence, University of Bremen, Germany [(web)](https://ai.uni-bremen.de/team/daniel_bessler)
 
+**Amelie Gyrard** - Trialog, France [(web)](https://wiki.aiisc.ai/index.php?title=AmelieGyrard)
+
 **Howard Li** - University of New Brunswick, New Brunswick, Canada [(web)](https://www.unb.ca/faculty-staff/directory/engineering-electrical-and-computer/li-howard.html)
 
 **Alberto Olivares-Alarcos** - Institut de Robòtica i Informàtica Industrial, CSIC-UPC, Spain [(web)](https://www.aolivaresalarcos.com/)
-
-**Signe Redfield** - Naval Research Lab, USA [(web)](https://www.linkedin.com/in/signe-redfield-88279824/)
 
 **Elisa Tosello** - Fondazione Bruno Kessler, Trento, Italy [(web)](https://elisatosello.github.io/)
 
