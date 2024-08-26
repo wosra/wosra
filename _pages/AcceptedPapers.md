@@ -3,6 +3,8 @@ permalink: /papers/
 title: "Accepted papers"
 ---
 
+<!--
+
 <span style="color:red;"> **[NEWS]** </span>
 Papers and extended abstracts will be presented in person at ICRA in Yokohama via a poster to be displayed during the dedicated posters session. Authors are also invited to prepare an optional single slide for a one minute spotlight presentation of their work. Please, send the slide to Paulo (paulo.goncalves@ipcb.pt), who will be chair of the workshop, or bring it in a USB drive. Make sure that your slide is on the workshop's computer before the spotlight presentations. The slide will serve to capture the attention of the workshop's attendees right before the poster sessions (coffee breaks), but you can also just introduce yourself and indicate the title and topic of your article without the slide. Depending on the availability of space to hang on the posters, authors might discuss them for one or the two coffe breaks (hopefully the second case). We recommend to print the posters in Din A1 or A0. 
 
@@ -30,6 +32,13 @@ _**Mission-Oriented Ontology for Small Unmanned Aerial Systems for Disasters.**_
 _**Towards Ontology-based Handling of Uncertainties in Robotic Assembly.**_ Dominik Mittel, Alexander Perzylo, Ingmar Kessler and Junsheng Ding
 
 _**Ontological Adaptations to a Knowledge Service for Underwater Robot Mission Explainability.**_ Jeremy Coffelt, Peter Kampmann and Michael Beetz
+
+-->
+
+
+
+
+
 
 
 <!--- 
