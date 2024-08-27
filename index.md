@@ -60,3 +60,6 @@ All papers will be peer-reviewed (single-blind) and published on our website wit
 - Multiple autonomous robots and cloud robotics
 - Affordances in human robot interaction
 - Causation in human robot interaction
+- Ontology-based Internet of Robotics Things (IoRT), Sensors
+- Ontology-based Unmanned Aerial Vehicle (UAV), Drones
+
