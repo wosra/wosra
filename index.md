@@ -4,7 +4,7 @@ layout: single
 author_profile: false
 excerpt: '4th edition of the Workshop on Ontologies and Standards for Robotics and Automation'
 header:
- overlay_image: /images/icra.png
+ overlay_image: /images/roman.png
  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
