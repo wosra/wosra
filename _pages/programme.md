@@ -2,10 +2,10 @@
 permalink: /programme/
 title: "Programme"
 ---
-
-**Location:** Georgia World Congress Center, Atlanta, USA
-
 <!-- 
+**Location:** xxx, Eindhoven, the Netherlands
+
+
 
 **Invited speakers for Session I**
 
