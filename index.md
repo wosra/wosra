@@ -10,6 +10,8 @@ header:
 
 International Workshop on Ontologies and Standards for Robotics and Automation (WOSRA 2025) @ [RO-MAN 2025](https://www.ro-man2025.org/), **August 25-29**, Enindhoven, the Netherlands
 
+This fourth edition is organized within the Joint Workshop on Ontologies, Semantic Maps and Autonomous Robotics Standardization ([J-WOSMARS](https://wosra.github.io/j-wosmars/)). 
+
 
 <!-- **Location:** XXX, Enindhoven, the Netherlands -->
 
@@ -22,7 +24,7 @@ The development of applications in which robots and humans interact and communic
 Established and shared vocabularies and practices play a relevant role when legal and ethical aspects are at stake. Hence, the creation of new robotic standards and specifically ontological standards for robots is of utter importance to help with robot certification and safe and ethical design. Hence, this workshop aims to increase interest in standardization and ontology formalization for the Robotics and Automation (R&A) domain, as well as the challenges involved with the interaction between humans and robots. 
 
 
-
+<!--
 **IMPORTANT DATES**
 
 - Submission deadline: **TBD** 
@@ -36,7 +38,7 @@ Established and shared vocabularies and practices play a relevant role when lega
 Participants are invited to submit extended abstract papers of 2+n pages (n pages for references), or short papers of 4+n pages (IEEE format) for poster presentation in person at RO-MAN in Eindhoven. Contributions shall be submitted through the EasyChair conference system. Extended abstracts shall focus on insights on new or ongoing projects on ontologies. The goal is to foster engaging technical and scientific discussions among ontology users and cultivate new collaborations. Short papers shall discuss previous or on-going research, preliminary results, use cases. The aim is to disseminate to the community research works but also encourage fruitful discussions on open problems and novel ideas.
 
 All papers will be peer-reviewed (single-blind) and published on our website with the permission of authors. Submissions shall focus on subjects including but not limited to the following topics:
-
+-->
 
 **TOPICS OF INTEREST**
 - Autonomous Robotics
